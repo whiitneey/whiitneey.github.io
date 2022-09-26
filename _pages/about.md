@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Site in Progress. I'm sorry if you're seeing this
+-----
+
 
 I am a FINESST fellow and PhD candidate in Astrophysics at the University of Colorado Boulder. I study convection in the Sun, other stars and giant planets. My current research is on the properties of fully compressible internally heated convection. I will be extending this work to consider the effects of rotating convection.
 
