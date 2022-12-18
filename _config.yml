@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Whitney Powers"
+title                    : "Whitney's website"
 title_separator          : "-"
-name                     : &name "Whitney Powers"
-description              : &description "Academic website for Whitney Powers"
+name                     : &name "hey"
+description              : &description "Personal website for Whitney"
 url                      : https://whiitneey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whiitneey/whiitneey.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Whitney Powers"
+  name             : "Whitney"
   avatar           : "profile.png"
-  bio              : "Whitney Powers is a PhD candidate at CU Boulder. She studies fluid dynamics of the Sun, other stars, and giant planets."
-  location         : "University of Colorado Boulder"
+  bio              : "Whitney is a grad student, but this is her personal website for photography stuff"
+  location         : "nowhere good"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "whitney-powers"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
