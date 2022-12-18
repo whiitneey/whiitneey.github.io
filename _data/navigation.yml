@@ -14,8 +14,8 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
   - title: "Elon pls don't look"
     url: /links/
