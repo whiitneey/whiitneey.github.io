@@ -16,4 +16,7 @@ ELON MUSK PLS DON'T LOOK
 
 
 [Twitter](https://twitter.com/Powerzzs)
+
 [Instagram](https://www.instagram.com/powerzs/)
+
+[Mastodon](https://toot.io/@powerzs)
