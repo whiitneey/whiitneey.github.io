@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ELON MUSK PLS DON'T LOOK
-![thinkboy](/images/thinkboy.png)
+![thinkboy](/images/thinkboy.jpeg)
 [https://twitter.com/Powerzzs]https://twitter.com/Powerzzs
 [https://www.instagram.com/powerzs/]https://www.instagram.com/powerzs/
