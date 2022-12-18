@@ -11,5 +11,5 @@ redirect_from:
 
 ELON MUSK PLS DON'T LOOK
 ![thinkboy](/images/thinkboy.jpg)
-[https://twitter.com/Powerzzs]https://twitter.com/Powerzzs
-[https://www.instagram.com/powerzs/]https://www.instagram.com/powerzs/
+[https://twitter.com/Powerzzs](https://twitter.com/Powerzzs)
+[https://www.instagram.com/powerzs/](https://www.instagram.com/powerzs/)
