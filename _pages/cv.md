@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "THE FORBIDDEN LINKS"
+permalink: /links/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://whitney-powers.github.io/files/cv.pdf)
+ELON MUSK PLS DON'T LOOK
