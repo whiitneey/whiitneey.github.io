@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Whitney's website"
+title                    : "Whitney"
 title_separator          : "-"
 name                     : &name "hey"
 description              : &description "Personal website for Whitney"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Whitney"
+  name             : "it me"
   avatar           : "profile.png"
-  bio              : "Whitney is a grad student, but this is her personal website for photography stuff"
+  bio              : "I'm a grad student, but this is my personal website for photography stuff"
   location         : "nowhere good"
   employer         :
   pubmed           : 
